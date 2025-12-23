@@ -4,6 +4,13 @@
 
 The **Intelligent Interruption Handler** is a sophisticated middleware designed for LiveKit-powered voice agents. It solves the "stuttering agent" problem by distinguishing between passive user backchannels (like "uh-huh" or "yeah") and active interruptions (like "stop" or "wait").
 
+## 📺 Demo Video
+
+Check out the Intelligent Interruption Handler in action on the LiveKit Playground:
+
+[![LiveKit Agent Demo](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder)
+*Note: Click the image above to watch the demonstration of backchannel filtering and command-driven interruptions.*
+
 ## 🛡️ Multilevel Guard Architecture
 
 We protect the agent's flow through three distinct stages of analysis:
